@@ -7,6 +7,7 @@ System.
 To create ATM System software that will meet the needs of the applicant and help them
 to withdraw money,deposit.
 ### UML DIAGRAMS:
+<img width="1477" height="1047" alt="image" src="https://github.com/user-attachments/assets/e9e68912-619f-4d44-82cf-bc8fcb2e3660" />
 
 
 
