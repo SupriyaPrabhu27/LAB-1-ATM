@@ -13,6 +13,7 @@ to withdraw money,deposit.
 # sequence diagram
 
 <img width="1671" height="1035" alt="Screenshot 2026-02-02 112716" src="https://github.com/user-attachments/assets/966d8d99-16b3-4080-a594-2c0df0865474" />
+
 # class diagram
 
 <img width="1661" height="1015" alt="Screenshot 2026-02-04 114614" src="https://github.com/user-attachments/assets/6cc640fd-494b-4578-9c5b-78d65f9fda60" />
